@@ -1,5 +1,5 @@
 # Obojsmerne prehladavanie pre hru 8
-Projekt z umelej inteligencie 
+Projekt z umelej inteligencie http://www2.fiit.stuba.sk/~kapustik/z2d.html
 
 Tento program slúži na nájdenie riešenia 8-hlavolamu. Hlavolam je zložený z 8 očíslovaných 
 políčok a jedného prázdneho miesta(v tomto prípade označený nulou). Políčka je možné presúvať 
